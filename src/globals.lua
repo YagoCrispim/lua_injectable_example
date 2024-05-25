@@ -1,4 +1,4 @@
-package.path = package.path .. ';' .. './libs/cheese/?.lua'
+package.path = package.path .. ';' .. './libs/lua_injectable/?.lua'
 
 function Pprint(o, get_string)
     local result

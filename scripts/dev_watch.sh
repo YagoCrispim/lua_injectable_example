@@ -9,7 +9,7 @@ function clear_screen() {
 
 function print_header() {
     echo "----------------------------"
-    echo "Cheese - $(date)"
+    echo "Lua Injectable - $(date)"
     echo "----------------------------"
 }
 

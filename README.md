@@ -1,4 +1,4 @@
-# Cheese - Example app
+# Example app
 
 ### Instal deps
 

@@ -1,4 +1,4 @@
-local New = require 'libs.cheese.new'
+local New = require 'libs.lua_injectable.new'
 local MovementService = require 'src.modules.movements.movement_service'
 local Movement = require 'src.domain.movement'
 

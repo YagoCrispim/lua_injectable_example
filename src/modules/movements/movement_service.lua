@@ -1,5 +1,5 @@
-local Provider = require 'libs.cheese.provider'
-local New = require 'libs.cheese.new'
+local Provider = require 'libs.lua_injectable.provider'
+local New = require 'libs.lua_injectable.new'
 local DatabaseService = require 'src.modules.infra.database.database_service'
 
 ---@class MovementService

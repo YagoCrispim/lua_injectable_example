@@ -1,8 +1,8 @@
-package.path = package.path .. ';' .. './libs/cheese/?.lua'
+package.path = package.path .. ';' .. './libs/lua_injectable/?.lua'
 require 'src.globals'
 
--- cheese
-local RootModule = require 'libs.cheese.root_module'
+-- app
+local RootModule = require 'libs.lua_injectable.root_module'
 
 -- modules
 local MovementModule = require 'src.modules.movements.movement_module'
