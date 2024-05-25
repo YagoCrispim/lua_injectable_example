@@ -4,7 +4,7 @@ mkdir libs
 
 cd libs
 
-git clone https://github.com/YagoCrispim/cheese.git
+git clone https://github.com/YagoCrispim/lua_injectable.git
 
 cd -
 
